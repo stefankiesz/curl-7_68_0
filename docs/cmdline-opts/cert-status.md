@@ -4,7 +4,7 @@ SPDX-License-Identifier: curl
 Long: cert-status
 Protocols: TLS
 Added: 7.41.0
-Help: Verify the status of the server cert via OCSP-staple
+Help: OCSP-staple the server
 Category: tls
 Multi: boolean
 See-also:
