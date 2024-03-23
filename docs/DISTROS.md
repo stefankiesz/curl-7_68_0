@@ -12,9 +12,10 @@ distro.
 
 ## Arch Linux
 
-- curl: [URL]
-- curl issues: [URL]
-- curl patches: [URL]
+- curl: https://archlinux.org/packages/core/x86_64/curl/
+- curl issues: https://gitlab.archlinux.org/archlinux/packaging/packages/curl/-/issues
+- curl security: https://security.archlinux.org/package/curl
+- curl wiki: https://wiki.archlinux.org/title/CURL
 
 ## Debian
 
