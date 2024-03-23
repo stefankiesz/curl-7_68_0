@@ -20,6 +20,14 @@ mailing list](https://lists.haxx.se/mailman/listinfo/curl-distros)
 - curl security: https://security.archlinux.org/package/curl
 - curl wiki: https://wiki.archlinux.org/title/CURL
 
+## curl-for-win
+
+(this is the official curl binaries for Windows shipped by the curl project)
+
+- curl: https://curl.se/windows/
+
+Issues and patches for this are managed in the main curl project.
+
 ## Debian
 
 - curl: https://tracker.debian.org/pkg/curl
