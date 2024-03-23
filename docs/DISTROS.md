@@ -40,6 +40,12 @@ distro.
 - curl issues: [URL]
 - curl patches: [URL]
 
+## OpenIndiana
+
+- curl: https://github.com/OpenIndiana/oi-userland/tree/oi/hipster/components/web/curl
+- curl issues: https://www.illumos.org/projects/openindiana/issues
+- curl patches: https://github.com/OpenIndiana/oi-userland/tree/oi/hipster/components/web/curl/patches
+
 ## Red Hat / Fedora
 
 - curl: [URL]
