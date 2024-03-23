@@ -23,6 +23,12 @@ distro.
 - curl issues: https://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=curl
 - curl patches: https://udd.debian.org/patches.cgi?src=curl
 
+## Fedora
+
+- curl: https://src.fedoraproject.org/rpms/curl
+- curl issues: [bugzilla](https://bugzilla.redhat.com/buglist.cgi?bug_status=NEW&bug_status=ASSIGNED&classification=Fedora&product=Fedora&product=Fedora%20EPEL&component=curl)
+- curl patches: [list of patches in package git](https://src.fedoraproject.org/rpms/curl/tree/rawhide)
+
 ## Homebrew
 
 - curl: https://formulae.brew.sh/formula/curl
