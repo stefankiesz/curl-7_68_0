@@ -40,6 +40,12 @@ Issues and patches for this are managed in the main curl project.
 - curl issues: [bugzilla](https://bugzilla.redhat.com/buglist.cgi?bug_status=NEW&bug_status=ASSIGNED&classification=Fedora&product=Fedora&product=Fedora%20EPEL&component=curl)
 - curl patches: [list of patches in package git](https://src.fedoraproject.org/rpms/curl/tree/rawhide)
 
+## Gentoo Linux
+
+- curl: https://packages.gentoo.org/packages/net-misc/curl
+- curl issues: https://bugs.gentoo.org/buglist.cgi?quicksearch=net-misc%252Fcurl
+- curl package sources and patches: https://gitweb.gentoo.org/repo/gentoo.git/tree/net-misc/curl/
+
 ## Homebrew
 
 - curl: https://formulae.brew.sh/formula/curl
