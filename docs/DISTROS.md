@@ -88,6 +88,12 @@ can also be used on other distributions
 - curl issues: https://www.illumos.org/projects/openindiana/issues
 - curl patches: https://github.com/OpenIndiana/oi-userland/tree/oi/hipster/components/web/curl/patches
 
+## Oracle Solaris
+
+- curl: https://github.com/oracle/solaris-userland/tree/master/components/curl
+- curl issues: https://support.oracle.com/ (requires support contract)
+- curl patches: https://github.com/oracle/solaris-userland/tree/master/components/curl/patches
+
 ## Red Hat
 
 - curl: [URL]
