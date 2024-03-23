@@ -61,11 +61,19 @@ curl issue tracker in Homebrew.
 - curl issues: [URL]
 - curl patches: [URL]
 
-## Megeia
+## Mageia
 
 - curl: [URL]
 - curl issues: [URL]
 - curl patches: [URL]
+
+## NixOS
+
+- curl: https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/networking/curl/default.nix
+- curl issues: https://github.com/NixOS/nixpkgs
+
+nixpkgs is the package repository used by the NixOS Linux distribution, but
+can also be used on other distributions
 
 ## OpenIndiana
 
