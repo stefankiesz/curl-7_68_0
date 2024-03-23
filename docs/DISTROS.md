@@ -35,8 +35,11 @@ mailing list](https://lists.haxx.se/mailman/listinfo/curl-distros)
 ## Homebrew
 
 - curl: https://formulae.brew.sh/formula/curl
-- curl issues: [URL]
-- curl patches: [URL]
+
+Homebrew's policy is that all patches should be submitted upstream unless it
+is very specific to Homebrew's way of packaging software. The issues could
+also just point to the generic Homebrew issue tracker. There is no specific
+curl issue tracker in Homebrew.
 
 ## MacPorts
 
