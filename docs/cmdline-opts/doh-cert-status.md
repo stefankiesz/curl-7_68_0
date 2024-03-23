@@ -2,7 +2,7 @@
 c: Copyright (C) Daniel Stenberg, <daniel@haxx.se>, et al.
 SPDX-License-Identifier: curl
 Long: doh-cert-status
-Help: Verify DoH server cert status via OCSP-staple
+Help: Verify DoH server cert status OCSP-staple
 Added: 7.76.0
 Category: dns tls
 Multi: boolean
