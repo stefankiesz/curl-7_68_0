@@ -43,7 +43,7 @@ Issues and patches for this are managed in the main curl project.
 ## Gentoo Linux
 
 - curl: https://packages.gentoo.org/packages/net-misc/curl
-- curl issues: https://bugs.gentoo.org/buglist.cgi?quicksearch=net-misc%252Fcurl
+- curl issues: https://bugs.gentoo.org/buglist.cgi?quicksearch=net-misc/curl
 - curl package sources and patches: https://gitweb.gentoo.org/repo/gentoo.git/tree/net-misc/curl/
 
 ## Homebrew
