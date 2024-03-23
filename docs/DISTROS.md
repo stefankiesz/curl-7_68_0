@@ -13,6 +13,13 @@ mailing list](https://lists.haxx.se/mailman/listinfo/curl-distros)
 - curl issues: [URL]
 - curl patches: [URL]
 
+# Alpine Linux
+
+- curl: https://pkgs.alpinelinux.org/package/edge/main/x86_64/curl
+- curl issues: https://gitlab.alpinelinux.org/alpine/aports/-/issues
+- curl security: https://security.alpinelinux.org/srcpkg/curl
+- curl package source and patches: https://gitlab.alpinelinux.org/alpine/aports/-/tree/master/main/curl
+
 ## Arch Linux
 
 - curl: https://archlinux.org/packages/core/x86_64/curl/
