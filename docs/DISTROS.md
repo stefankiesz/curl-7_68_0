@@ -4,6 +4,9 @@ Lots of organizations distribute curl packages to end users. This is a
 collection of pointers to where to learn more about curl on and with each
 distro.
 
+We discuss curl distro issues, patches and collaboration on the [curl-distros
+mailing list](https://lists.haxx.se/mailman/listinfo/curl-distros)
+
 ## AlmaLinux
 
 - curl: [URL]
