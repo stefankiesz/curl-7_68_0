@@ -53,7 +53,7 @@ distro.
 - curl issues: https://www.illumos.org/projects/openindiana/issues
 - curl patches: https://github.com/OpenIndiana/oi-userland/tree/oi/hipster/components/web/curl/patches
 
-## Red Hat / Fedora
+## Red Hat
 
 - curl: [URL]
 - curl issues: [URL]
