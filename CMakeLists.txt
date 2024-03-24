@@ -353,6 +353,13 @@ if(CMAKE_USE_OPENSSL)
   set(SSL_ENABLED ON)
   set(USE_OPENSSL ON)
 
+  message("[curl build] OPENSSL_FOUND: ${OPENSSL_FOUND}")
+  message("[curl build] OPENSSL_INCLUDE_DIR: ${OPENSSL_INCLUDE_DIR}")
+  message("[curl build] OPENSSL_LIBRARIES: ${OPENSSL_LIBRARIES}")
+  message("[curl build] OPENSSL_VERSION: ${OPENSSL_VERSION}")
+  message("[curl build] OPENSSL_CRYPTO_LIBRARY: ${OPENSSL_CRYPTO_LIBRARY}")
+  message("[curl build] OPENSSL_SSL_LIBRARY: ${OPENSSL_SSL_LIBRARY}")
+
   # Depend on OpenSSL via imported targets if supported by the running
   # version of CMake.  This allows our dependents to get our dependencies
   # transitively.
